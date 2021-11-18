@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    border: 0px;
+}
+.first6:hover{
+    background-color: darkgoldenrod;
+    text-align: center;
+    
+}
